@@ -1,0 +1,63 @@
+﻿Type of step,Number,Step name,Bvh file locations
+Step,0,walk,DanceStepbvh\walkChar00.bvh
+Footwork,1,jazz walk,DanceStepbvh\jazzwalkChar00.bvh
+Footwork,1,pdb,DanceStepbvh\pdbChar00.bvh
+Footwork,1,jazz square,DanceStepbvh\jazzsquareChar00.bvh
+Footwork,1,kick ballchange,DanceStepbvh\kickballchangeChar00.bvh
+Footwork,1,tendu,DanceStepbvh\tenduChar00.bvh
+Footwork,1,plie,DanceStepbvh\plieChar00.bvh
+Footwork,1,pivot turn,DanceStepbvh\pivot turnChar00.bvh
+Footwork,1,degage,DanceStepbvh\degageChar00.bvh
+Footwork,1,fan kick,DanceStepbvh\fankickChar00.bvh
+Footwork,1,step touch,DanceStepbvh\steptouchChar00.bvh
+Footwork,1,jazz line,DanceStepbvh\jazzlineChar00.bvh
+Footwork,1,grape vine,DanceStepbvh\grapevineChar00.bvh
+Footwork,1,triplet,DanceStepbvh\tripletChar00.bvh
+Footwork,1,pony,DanceStepbvh\ponyChar00.bvh
+Footwork,1,x-turn,DanceStepbvh\x-turnChar00.bvh
+Footwork,1,releve,DanceStepbvh\releveChar00.bvh
+Footwork,1,ballchange,DanceStepbvh\ballchangeChar00.bvh
+Footwork,1,change ball,DanceStepbvh\changeballChar00.bvh
+Footwork,1,passe,DanceStepbvh\passeChar00.bvh
+Footwork,1,drag,DanceStepbvh\dragChar00.bvh
+Footwork,1,camel,DanceStepbvh\camelChar00.bvh
+Turns,2,pirouette,DanceStepbvh\pirouetteChar00.bvh
+Turns,2,pique,DanceStepbvh\piqueChar00.bvh
+Turns,2,chaine,DanceStepbvh\chaineChar00.bvh
+Turns,2,degage turn,DanceStepbvh\degage turnChar00.bvh
+Turns,2,a la seconde,DanceStepbvh\a al secondeChar00.bvh
+Turns,2,coupe turns,DanceStepbvh\coupe turnsChar00.bvh
+Turns,2,barrel turn,DanceStepbvh\barrell turnChar00.bvh
+Turns,2,foquette,DanceStepbvh\fouetteChar00.bvh
+Turns,2,illusion,DanceStepbvh\illusionChar00.bvh
+Turns,2,attitude,DanceStepbvh\attitudeChar00.bvh
+Turns,2,variation turn,DanceStepbvh\variation turn sequenceChar00.bvh
+Turns,2,compass,DanceStepbvh\compassChar00.bvh
+Jumps/Leaps,3,axel,DanceStepbvh\axelChar00.bvh
+Jumps/Leaps,3,chasse,DanceStepbvh\chasseChar00.bvh
+Jumps/Leaps,3,side leap,DanceStepbvh\side leapChar00.bvh
+Jumps/Leaps,3,spinning disk,DanceStepbvh\spinning diskChar00.bvh
+Jumps/Leaps,3,grand jete,DanceStepbvh\grand jeteChar00.bvh
+Jumps/Leaps,3,cylpso,DanceStepbvh\cylspoChar00.bvh
+Jumps/Leaps,3,assemble,DanceStepbvh\assembleChar00.bvh
+Jumps/Leaps,3,prance,DanceStepbvh\pranceChar00.bvh
+Jumps/Leaps,3,airtour,DanceStepbvh\airtourChar00.bvh
+Jumps/Leaps,3,saut de chat,DanceStepbvh\saut de chatChar00.bvh
+Jumps/Leaps,3,saute,DanceStepbvh\sauteChar00.bvh
+Jumps/Leaps,3,battement,DanceStepbvh\battementChar00.bvh
+Jumps/Leaps,3,switch leap,DanceStepbvh\switchleapChar00.bvh
+Jumps/Leaps,3,sissione,DanceStepbvh\sissioneChar00.bvh
+Jumps/Leaps,3,barrel leap,DanceStepbvh\barrel leapChar00.bvh
+Jumps/Leaps,3,toetouch,DanceStepbvh\toetouchChar00.bvh
+Jumps/Leaps,3,pop tilt,DanceStepbvh\pop tiltChar00.bvh
+Jumps/Leaps,3,hop,DanceStepbvh\hopChar00.bvh
+Jumps/Leaps,3,tour jete,DanceStepbvh\tour jeteChar00.bvh
+Jumps/Leaps,3,pas de chate,DanceStepbvh\pas de chatChar00.bvh
+Jumps/Leaps,3,saute passe,DanceStepbvh\saute passeChar00.bvh
+Floorwork,4,modern rolls,DanceStepbvh\modern rollChar00.bvh
+Floorwork,4,forward roll,DanceStepbvh\forward rollChar00.bvh
+Floorwork,4,reach,DanceStepbvh\reachChar00.bvh
+Floorwork,4,fan roll,DanceStepbvh\fan rollChar00.bvh
+Floorwork,4,flare split,DanceStepbvh\flare splitChar00.bvh
+Floorwork,4,shoulder rolls,DanceStepbvh\shoulder rollChar00.bvh
+Floorwork,4,handstands,DanceStepbvh\handstandChar00.bvh
