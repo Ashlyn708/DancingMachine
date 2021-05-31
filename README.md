@@ -1,0 +1,4 @@
+# DancingMachine
+This study investigates using Artificial Intelligence to create a dance sequence. The project starts with the beginning idea to create a great sequence based on rules. The rules are a preference based on your dance background, but they let you know what kind of dance steps cannot be next to each other. This project uses a genetic algorithm to find the fittest sequence of steps and later pushes it to a larger sequence. This project is split into 3 parts: the genetic algorithm, connecting the genetic algorithm with the data set, and creating an Anvil interface that pulls the python code. The result of this project is an application that takes a user input and based on the number of dance sets, they will find the best combination of dance steps. These dance steps can then be used in a dance choreography.
+
+Anvil Link: https://dancestepgenerator.anvil.app
